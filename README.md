@@ -1,0 +1,2 @@
+# seatmaker
+GitHub Pages
